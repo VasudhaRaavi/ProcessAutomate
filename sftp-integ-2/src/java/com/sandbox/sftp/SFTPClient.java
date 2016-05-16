@@ -9,7 +9,7 @@ import java.io.IOException;
 import java.nio.channels.Channel;
 import java.util.Hashtable;
 
-import java.lang.String;
+import java.lang.String; -- added
 import com.jcraft.jsch.ChannelSftp;
 import com.jcraft.jsch.JSch;
 import com.jcraft.jsch.JSchException;
